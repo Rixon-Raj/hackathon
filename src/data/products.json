@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Nike Shoe",
+      "description": "Description for Product 1",
+      "price": 29.99,
+      "image": "product1.png",
+      "category": "CASUAL SHOES"
+    },
+    {
+        "id": 2,
+        "title": "Sneakers Skate Shoe",
+        "description": "Description for Product 2",
+        "price": 29.99,
+        "image": "product2.png",
+        "category": "CASUAL SHOES"
+      },
+      {
+        "id": 3,
+        "title": "Sneakers Basketball Shoe",
+        "description": "Description for Product 1",
+        "price": 29.99,
+        "image": "product3.png",
+        "category": "CASUAL SHOES"
+      },
+      {
+        "id": 4,
+        "title": "Prestige High-Cut Leather",
+        "description": "Description for Product 1",
+        "price": 29.99,
+        "image": "product4.png",
+        "category": "FORMAL SHOES"
+      },
+      {
+        "id": 5,
+        "title": "Slip-On Formal Shoe",
+        "description": "Description for Product 1",
+        "price": 29.99,
+        "image": "product5.png",
+        "category": "FORMAL SHOES"
+      },
+      {
+        "id": 6,
+        "title": "Slip-On Formal Shoe",
+        "description": "Description for Product 1",
+        "price": 29.99,
+        "image": "product6.png",
+        "category": "FORMAL SHOES"
+      }
+  ]
+  
